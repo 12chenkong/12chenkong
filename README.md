@@ -2,7 +2,7 @@
 
 A computer science student at Royal University of Phnom Phenh(RUPP)
 - I really Love coding cuz it makes me think a lot when I code.
-- ⚡ Fun fact: I'm a shy person 
+- ⚡ Fun fact: I don't want a relationship but I want a scholarship
 ## Language and too I use
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
