@@ -1,6 +1,6 @@
 <h1>Hello,I'm  chan</h1>
 
-A computer science student at Royal University of Phnom Phenh(RUPP)
+A computer science student at Royal University of Phnom Phenh(RUPP) and ISTAD
 - I really Love coding cuz it makes me think a lot when I code.
 - ⚡ Fun fact: I don't want a relationship but I want a scholarship
 ## Language and too I use
